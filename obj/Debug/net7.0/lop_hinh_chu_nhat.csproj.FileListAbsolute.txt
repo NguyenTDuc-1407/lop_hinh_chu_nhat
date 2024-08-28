@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\New folder\lop_hinh_chu_nhat\bin\Debug\net7.0\lop_hinh_chu_nhat.exe
+C:\Users\ASUS\Desktop\New folder\lop_hinh_chu_nhat\bin\Debug\net7.0\lop_hinh_chu_nhat.deps.json
+C:\Users\ASUS\Desktop\New folder\lop_hinh_chu_nhat\bin\Debug\net7.0\lop_hinh_chu_nhat.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder\lop_hinh_chu_nhat\bin\Debug\net7.0\lop_hinh_chu_nhat.dll
+C:\Users\ASUS\Desktop\New folder\lop_hinh_chu_nhat\bin\Debug\net7.0\lop_hinh_chu_nhat.pdb
+C:\Users\ASUS\Desktop\New folder\lop_hinh_chu_nhat\obj\Debug\net7.0\lop_hinh_chu_nhat.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder\lop_hinh_chu_nhat\obj\Debug\net7.0\lop_hinh_chu_nhat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder\lop_hinh_chu_nhat\obj\Debug\net7.0\lop_hinh_chu_nhat.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder\lop_hinh_chu_nhat\obj\Debug\net7.0\lop_hinh_chu_nhat.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder\lop_hinh_chu_nhat\obj\Debug\net7.0\lop_hinh_chu_nhat.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder\lop_hinh_chu_nhat\obj\Debug\net7.0\lop_hinh_chu_nhat.dll
+C:\Users\ASUS\Desktop\New folder\lop_hinh_chu_nhat\obj\Debug\net7.0\refint\lop_hinh_chu_nhat.dll
+C:\Users\ASUS\Desktop\New folder\lop_hinh_chu_nhat\obj\Debug\net7.0\lop_hinh_chu_nhat.pdb
+C:\Users\ASUS\Desktop\New folder\lop_hinh_chu_nhat\obj\Debug\net7.0\lop_hinh_chu_nhat.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder\lop_hinh_chu_nhat\obj\Debug\net7.0\ref\lop_hinh_chu_nhat.dll
